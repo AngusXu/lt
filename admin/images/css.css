@@ -1,0 +1,38 @@
+body,td,th {
+	font-size: 12px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a {
+	font-size: 12px;
+	color: #000000;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+}
+.style1 {color: #000000}
+.style2 {
+	font-size: 11px;
+	color: #666666;
+}
+.style3 {color: #FF0000}
+.style4 {
+	color: #4083C9;
+	font-weight: bold;
+}
+.style5 {color: #999999}
